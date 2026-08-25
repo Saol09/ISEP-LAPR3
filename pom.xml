@@ -65,7 +65,7 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-base</artifactId>
-            <version>11</version>
+            <version>26.0.2</version>
         </dependency>
 
     </dependencies>
